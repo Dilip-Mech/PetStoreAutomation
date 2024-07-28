@@ -1,0 +1,16 @@
+2024-07-28 10:53:59,480 [INFO ] api.test.userTests2 [main] **************** Creating User ****************
+2024-07-28 10:54:02,527 [INFO ] api.test.userTests2 [main] **************** User is Created****************
+2024-07-28 10:54:02,536 [INFO ] api.test.userTests2 [main] **************** Reading User Info ****************
+2024-07-28 10:54:03,685 [INFO ] api.test.userTests2 [main] **************** User Info is displayed ****************
+2024-07-28 10:54:03,688 [INFO ] api.test.userTests2 [main] **************** Updating User Info ****************
+2024-07-28 10:54:04,780 [INFO ] api.test.userTests2 [main] **************** User Updated ****************
+2024-07-28 10:54:05,908 [INFO ] api.test.userTests2 [main] **************** Deleting User ****************
+2024-07-28 10:54:07,031 [INFO ] api.test.userTests2 [main] **************** User Deleted ****************
+2024-07-28 12:22:37,810 [INFO ] api.test.userTests2 [main] **************** Creating User ****************
+2024-07-28 12:22:40,941 [INFO ] api.test.userTests2 [main] **************** User is Created****************
+2024-07-28 12:22:40,953 [INFO ] api.test.userTests2 [main] **************** Reading User Info ****************
+2024-07-28 12:22:42,187 [INFO ] api.test.userTests2 [main] **************** User Info is displayed ****************
+2024-07-28 12:22:42,191 [INFO ] api.test.userTests2 [main] **************** Updating User Info ****************
+2024-07-28 12:22:43,334 [INFO ] api.test.userTests2 [main] **************** User Updated ****************
+2024-07-28 12:22:44,432 [INFO ] api.test.userTests2 [main] **************** Deleting User ****************
+2024-07-28 12:22:45,599 [INFO ] api.test.userTests2 [main] **************** User Deleted ****************
