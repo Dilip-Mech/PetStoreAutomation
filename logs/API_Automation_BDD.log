@@ -14,3 +14,11 @@
 2024-07-28 12:22:43,334 [INFO ] api.test.userTests2 [main] **************** User Updated ****************
 2024-07-28 12:22:44,432 [INFO ] api.test.userTests2 [main] **************** Deleting User ****************
 2024-07-28 12:22:45,599 [INFO ] api.test.userTests2 [main] **************** User Deleted ****************
+2024-07-28 20:06:28,712 [INFO ] api.test.userTests2 [main] **************** Creating User ****************
+2024-07-28 20:06:31,693 [INFO ] api.test.userTests2 [main] **************** User is Created****************
+2024-07-28 20:06:31,702 [INFO ] api.test.userTests2 [main] **************** Reading User Info ****************
+2024-07-28 20:06:32,844 [INFO ] api.test.userTests2 [main] **************** User Info is displayed ****************
+2024-07-28 20:06:32,847 [INFO ] api.test.userTests2 [main] **************** Updating User Info ****************
+2024-07-28 20:06:33,996 [INFO ] api.test.userTests2 [main] **************** User Updated ****************
+2024-07-28 20:06:35,087 [INFO ] api.test.userTests2 [main] **************** Deleting User ****************
+2024-07-28 20:06:36,198 [INFO ] api.test.userTests2 [main] **************** User Deleted ****************
